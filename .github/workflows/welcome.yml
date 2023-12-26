@@ -1,4 +1,4 @@
-name: Welcome to the workflow world
+name: Post welcome comment
 on:
   pull_request:
     types: [opened]
